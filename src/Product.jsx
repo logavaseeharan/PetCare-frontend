@@ -41,7 +41,7 @@ function Product() {
     allproducts
       
       .map((d, index) => (
-        <div class="cardP" key={index}>
+        <div class="cardP" key={index}S>
           <div>    
             <img src={d.url} className="imageP" alt={d.name} />
           </div>

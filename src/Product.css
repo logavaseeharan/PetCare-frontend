@@ -1,9 +1,9 @@
 .cardP{
-  width: 220px;
-  height: 305px;
+  width: 250px;
+  height: 325px;
   background: white;
-  border: 10px solid #eab30a;
-  border-radius: 15px;
+  border: 10px solid #eab30a !important;
+  border-radius: 15px !important;
   margin-top:10px;
   margin-bottom: 50px;
    
@@ -44,7 +44,7 @@
 }  
 .addtocartP{
   width: 100%;
-  margin-top: 0px;
+  margin-top: 2px;
   padding: 15px;
   border: none;
   border-top: 0px ;
@@ -70,5 +70,5 @@ gap:24px;
 align-content: center;
 align-items: center; 
 background-color:  rgba(61, 70, 75, 0.158);
-
+  padding: 20px;
 }
